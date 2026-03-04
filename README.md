@@ -7,8 +7,3 @@ With GoalForge, you can: \
 Enter your resolutions and receive a score out of 100 based on their strength and balance. \
 Get a personalized roadmap to guide you toward achieving your goals. \
 Compete with others those with the highest resolution scores will win exciting prizes.
-
-## Things to do
-
-- Testing for Bugs
-- LeaderBoard
